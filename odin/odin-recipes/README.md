@@ -1,0 +1,1 @@
+This directory is for building a basic recipe website as per the task on The Odin Project.
